@@ -1,0 +1,16 @@
+[
+  {
+    "id": "42d939a5-2bd4-4159-85d1-d60a0739693f",
+    "name": "Shivam Agarwal",
+    "email": "23BCS13100@cuchd.in",
+    "password": "$2b$10$swfKSw2eqKsSwexU8YFqPeargVm3/GwFugSGeiSXSjrOphx6NO3cy",
+    "role": "CUSTOMER"
+  },
+  {
+    "id": "4b6374dc-6509-4dcd-8983-7839c8ec03d1",
+    "name": "Shivam agarwal",
+    "email": "aryan973645@gmail.com",
+    "password": "$2b$10$3.3/Kl/Jq2hs/3odNihEZu7gUPgY0.3Hrf8Gx3YEAj2GjZceEmJy2",
+    "role": "CUSTOMER"
+  }
+]

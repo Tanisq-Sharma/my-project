@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p1",
+    "name": "Handmade Mug",
+    "price": 299,
+    "shortDesc": "Ceramic mug",
+    "longDesc": "A handcrafted ceramic mug, microwave safe.",
+    "image": "https://via.placeholder.com/400x300?text=Handmade+Mug",
+    "sellerId": null
+  },
+  {
+    "id": "p2",
+    "name": "Cotton Kurta",
+    "price": 899,
+    "shortDesc": "Comfortable ethnic wear",
+    "longDesc": "100% cotton kurta, breathable and soft.",
+    "image": "https://via.placeholder.com/400x300?text=Cotton+Kurta",
+    "sellerId": null
+  }
+]
